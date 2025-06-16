@@ -35,7 +35,10 @@ This project focuses on analyzing car price data that includes information such 
 - Jupyter Notebooks
 
 ## Contributors
-- [Your Name Here]
+- [Abdullah Al-Khalileh]
+
 
 ## License
-This project is licensed under [Your License Name].
+
+This project is not licensed. All rights reserved © 2025 Abdullah Al-Khalileh.
+
